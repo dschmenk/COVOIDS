@@ -1,4 +1,7 @@
 # COVOIDS!
+
+![covoids](https://github.com/dschmenk/COVOIDS/raw/main/covoids.png)
+
 MS-DOS game featuring COVID virus as shoot-em up targets ala Asteroids
 
 To run this game, copy to media connected to an MS-DOS computer. Anything from an original IBM PC to a 386 machine to a Pentium III. If you have a modern machine, you can install DOSBox (https://www.dosbox.com) and run the game under emulation.

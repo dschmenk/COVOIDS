@@ -1,3 +1,8 @@
+/*
+ * I can't remember where I initially found this file on the intertz and my search came up blank.
+ * If you recognize it, let me know so I can add attribution.
+ */
+
 #define MAX_SCAN_CODES 256
 #define KEYBOARD_CONTROLLER_OUTPUT_BUFFER 0x60
 #define KEYBOARD_CONTROLLER_STATUS_REGISTER 0x64

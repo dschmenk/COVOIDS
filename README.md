@@ -19,4 +19,6 @@ Command line switches to adjust the visual quality and performance:
     -d4 use EGA mode on VGA
     -d2 use CGA mode on EGA & VGA
 
+The code is built with Borland C++ 3.1 on a Compaq 286 running MS-DOS 5.0. The BUILD.BAT file compiles and links everything, no makefile here!
+
 Enjoy while you're (still) sheltering at home. Hopefully we'll all get through this in a timely manner

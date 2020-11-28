@@ -5,7 +5,7 @@ To run this game, copy to media connected to an MS-DOS computer. Anything from a
 
 Kill the COVID virus using the left, right, and up arrow keys to direct your ship and firing with the spacebar.
 
-Wath the video: https://youtu.be/WPZTF6Pnx8M
+Watch the video: https://youtu.be/WPZTF6Pnx8M
 
 COVOIDS! uses the GFXLIB developed for the Bresenham-Span project: https://github.com/dschmenk/Bresen-Span/tree/master/src/gfxlib
 
